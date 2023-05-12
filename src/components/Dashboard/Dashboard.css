@@ -1,0 +1,7 @@
+.p--dashboard {
+    background: linear-gradient(90deg, rgba(218, 245, 255, 1) 23%, rgba(218, 245, 255, 1) 69%, rgba(189, 160, 188, 1) 93%);
+    color: #4B6858;
+    padding: 20px;
+    border-radius: 35px;
+    font-size: 25px;
+}

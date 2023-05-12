@@ -1,0 +1,22 @@
+.card--question {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 500px;
+    border: #4B6858 solid 3px;
+    background: linear-gradient(90deg, rgba(218,245,255,1) 23%, rgba(218,245,255,1) 69%, rgba(189,160,188,1) 93%);
+    border-radius: 30px;
+    padding: 20px;
+}
+.layout--question {
+    display: grid;
+    grid-template-columns: repeat(2, 90px);
+    grid-template-rows: repeat(2, 60px);
+    justify-items: center;
+    align-items: center;
+}
+h3 {
+    color: #4B6858;
+}
