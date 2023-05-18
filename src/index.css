@@ -17,3 +17,13 @@
     align-items: center;
     gap: 20px;
 }
+
+a {
+    color: #daf5ff;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #4B6858;
+    padding: 7px;
+    text-align: center;
+    border-radius: 20px;
+}

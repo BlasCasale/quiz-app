@@ -12,7 +12,8 @@
 }
 .layout--question {
     display: grid;
-    grid-template-columns: repeat(2, 90px);
+    gap: 10px;
+    grid-template-columns: repeat(2, 160px);
     grid-template-rows: repeat(2, 60px);
     justify-items: center;
     align-items: center;
